@@ -1,0 +1,33 @@
+packages/preview/qualitree/0.1.0/README.md
+  s_12e897ca4ee10b::t_fa01bced18b457 1,7,9,38,60,78,89,105,122-127
+packages/preview/qualitree/0.1.0/examples/coffee-data.typ
+  s_12e897ca4ee10b::t_e4760a1c806f7b 4
+packages/preview/qualitree/0.1.0/examples/components.typ
+  s_12e897ca4ee10b::t_2c090e291d0c13 1
+packages/preview/qualitree/0.1.0/examples/espresso.typ
+  s_12e897ca4ee10b::t_2221068942636a 1
+packages/preview/qualitree/0.1.0/examples/minimal.typ
+  s_12e897ca4ee10b::t_d85ca5c498486d 1
+packages/preview/qualitree/0.1.0/examples/profiles.typ
+  s_12e897ca4ee10b::t_6ffdc2a40c87eb 1
+packages/preview/qualitree/0.1.0/examples/report.typ
+  s_12e897ca4ee10b::t_e8551c0f72a235 1
+packages/preview/qualitree/0.1.0/examples/revisions.typ
+  s_12e897ca4ee10b::t_a475f7496ec4ff 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fc67d013197bece208c2af820ff0993ad3d3e4d6",
+  "prompts": {},
+  "sessions": {
+    "s_12e897ca4ee10b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08659-994f-75e1-a0e8-3d392ed61bed",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Tycho Tatitscheff <tychot@bam.tech>"
+    }
+  }
+}
