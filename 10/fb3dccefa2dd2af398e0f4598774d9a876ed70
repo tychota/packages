@@ -1,0 +1,32 @@
+packages/preview/qualitree/0.1.0/README.md
+  h_745d560834e283 1,7,9,89,91,93-95,111,128-133
+packages/preview/qualitree/0.1.0/examples/COFFEE.md
+  h_745d560834e283 51-55,62-79
+packages/preview/qualitree/0.1.0/examples/milk-automatic.typ
+  h_745d560834e283 1-15
+packages/preview/qualitree/0.1.0/examples/milk-detailed.typ
+  h_745d560834e283 1-13
+packages/preview/qualitree/0.1.0/examples/milk-options.typ
+  h_745d560834e283 1-105
+packages/preview/qualitree/0.1.0/examples/revision-components.typ
+  h_745d560834e283 2,5,7,9,11
+packages/preview/qualitree/0.1.0/examples/revisions.typ
+  h_745d560834e283 2,5,7,9,11
+packages/preview/qualitree/0.1.0/lib.typ
+  h_745d560834e283 4-5
+packages/preview/qualitree/0.1.0/src/model.typ
+  h_745d560834e283 1
+packages/preview/qualitree/0.1.0/src/palette.typ
+  h_745d560834e283 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "10fb3dccefa2dd2af398e0f4598774d9a876ed70",
+  "prompts": {},
+  "humans": {
+    "h_745d560834e283": {
+      "author": "Tycho Tatitscheff <tychot@bam.tech>"
+    }
+  }
+}
