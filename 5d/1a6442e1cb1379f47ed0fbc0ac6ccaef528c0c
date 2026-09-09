@@ -1,0 +1,24 @@
+packages/preview/qualitree/0.1.0/CONTRIBUTING.md
+  h_745d560834e283 54-74
+packages/preview/qualitree/0.1.0/README.md
+  h_745d560834e283 1,5-6,9,11,91,93,95,97,113,130-135
+packages/preview/qualitree/0.1.0/examples/fr/milk-automatic.typ
+  h_745d560834e283 1-15
+packages/preview/qualitree/0.1.0/examples/fr/milk-data.typ
+  h_745d560834e283 1-48
+packages/preview/qualitree/0.1.0/examples/fr/revision-components.typ
+  h_745d560834e283 1-11
+packages/preview/qualitree/0.1.0/examples/fr/revisions.typ
+  h_745d560834e283 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5d1a6442e1cb1379f47ed0fbc0ac6ccaef528c0c",
+  "prompts": {},
+  "humans": {
+    "h_745d560834e283": {
+      "author": "Tycho Tatitscheff <tychot@bam.tech>"
+    }
+  }
+}
