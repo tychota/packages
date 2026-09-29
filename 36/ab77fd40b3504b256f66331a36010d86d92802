@@ -1,0 +1,21 @@
+packages/preview/qualitree/0.1.0/README.md
+  s_036a834257bcb8::t_7844eb4ebe0fe5 1,9,11,91,93,95,97-99,115,132-137
+packages/preview/qualitree/0.1.0/typst.toml
+  s_036a834257bcb8::t_b74b91fe4e102d 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "36ab77fd40b3504b256f66331a36010d86d92802",
+  "prompts": {},
+  "sessions": {
+    "s_036a834257bcb8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a08b65-e613-7380-80d3-808961eadc00",
+        "model": "unknown"
+      },
+      "human_author": "Tycho Tatitscheff <tychot@bam.tech>"
+    }
+  }
+}
